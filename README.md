@@ -30,4 +30,4 @@ This project demonstrates an end-to-end Machine Learning workflow, including dat
 - Pandas & NumPy
 - Scikit-Learn
 - Matplotlib
--
+- Machine Learning (LinearRegression, scikit-learn)
